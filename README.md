@@ -1,2 +1,3 @@
 # hello-worldd
-Practica de repositorio github
+Practica de repositorio gith
+Hola mundo mi nombre es diego vera 
